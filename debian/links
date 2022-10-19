@@ -1,0 +1,2 @@
+opt/gcloud/bin/gcloud usr/bin/gcloud
+opt/gcloud/completion.bash.inc etc/bash_completion.d/gcloud

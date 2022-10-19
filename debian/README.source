@@ -1,0 +1,9 @@
+# Update instructions
+
+Create a single orig tarball containing the AMD64 and ARM64 upstream tarballs
+(ensuring that you fix the architecture names to match dpkg's convention).
+
+Make sure that you re-compress the tarballs using xz, otherwise
+you will likely find that they are too big for Github to accept them.
+
+Update the control and rules files to set the relevant version numbers.

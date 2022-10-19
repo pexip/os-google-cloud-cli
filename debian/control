@@ -1,0 +1,14 @@
+Source: google-cloud-cli
+Section: utils
+Priority: optional
+Maintainer: Pexip AS <packaging@pexip.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://cloud.google.com/sdk/docs/downloads-versioned-archives
+Rules-Requires-Root: no
+
+Package: google-cloud-cli
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Google Cloud SDK
+ Google Cloud SDK CLI bundled up for internal use at Pexip

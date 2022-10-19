@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: google-cloud-cli
+Source: https://cloud.google.com/sdk/docs/downloads-versioned-archives
+
+Files: *
+Copyright: 2013-2022 Google Inc
+License: Apache 2.0
+
+Files: debian/*
+Copyright: 2022 Pexip AS <packaging@pexip.com>
+License: Apache 2.0
