@@ -1,3 +1,9 @@
+google-cloud-cli (406.0.0-1pexip2) pexip; urgency=medium
+
+  * Add more bin symlinks.
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Wed, 19 Oct 2022 15:24:31 +0100
+
 google-cloud-cli (406.0.0-1pexip1) pexip; urgency=medium
 
   * Initial upload.
