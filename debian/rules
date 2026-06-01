@@ -13,7 +13,7 @@
 # package maintainers to append LDFLAGS
 #export DEB_LDFLAGS_MAINT_APPEND = -Wl,--as-needed
 
-VERSION=406.0.0
+VERSION=570.0.0
 ARCH=$(shell dpkg-architecture -qDEB_TARGET_ARCH)
 
 %:
